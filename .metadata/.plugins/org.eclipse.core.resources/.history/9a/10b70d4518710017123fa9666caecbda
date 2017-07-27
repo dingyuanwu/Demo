@@ -1,0 +1,10 @@
+package wdy.album.config;
+
+import org.springframework.boot.autoconfigure.AutoConfigureAfter;
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+@AutoConfigureAfter(MyHabitsConfig.class)
+public class MyHabitsMapperScannerConfig {
+
+}

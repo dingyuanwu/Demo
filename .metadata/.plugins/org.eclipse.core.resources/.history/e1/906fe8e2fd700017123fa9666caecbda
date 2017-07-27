@@ -1,0 +1,6 @@
+package wdy.abum.controller;
+
+public class BaseController {
+
+	
+}

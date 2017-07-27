@@ -1,0 +1,11 @@
+package wdy.album.model;
+
+public class UserInfo {
+
+	private String name;
+	private String telephone;
+	private String email;
+	private String password;
+	
+	
+}

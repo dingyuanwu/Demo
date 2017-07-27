@@ -1,0 +1,14 @@
+package wdy.album.config;
+
+import org.springframework.context.annotation.Configuration;
+
+/**
+ * MyBatis基础配置
+ * @author dingyuan
+ *
+ */
+@Configuration
+
+public class MyHabitsConfig {
+
+}

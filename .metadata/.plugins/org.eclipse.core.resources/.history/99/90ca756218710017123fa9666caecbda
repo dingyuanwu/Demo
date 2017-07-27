@@ -1,0 +1,15 @@
+package wdy.album.config;
+
+import org.springframework.boot.autoconfigure.AutoConfigureAfter;
+import org.springframework.context.annotation.Configuration;
+
+/**
+ * MyHabits扫描接口
+ * @author Administrator
+ *
+ */
+@Configuration
+@AutoConfigureAfter(MyHabitsConfig.class)
+public class MyHabitsMapperScannerConfig {
+
+}

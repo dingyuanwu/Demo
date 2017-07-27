@@ -1,0 +1,16 @@
+package wdy.album.config;
+
+import org.springframework.context.annotation.Configuration;
+import org.springframework.transaction.annotation.EnableTransactionManagement;
+
+/**
+ * MyBatis基础配置
+ * @author dingyuan
+ *
+ */
+@Configuration
+@EnableTransactionManagement
+public class MyHabitsConfig {
+
+	
+}
